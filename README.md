@@ -1,6 +1,6 @@
 test
 modify
 
-Git チュートリアル
-fix B
-feature-C
+- Git チュートリアル
+- fix B
+- feature-C
